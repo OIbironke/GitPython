@@ -56,7 +56,9 @@ There are 3 levels of confiurations in descending order:
 - Local [git config --local user.name]
 <br>
 ---
-### Gitignore
+<br> 
+
+## Gitignore <br>
 It is extrememly important to create a git ignore file when dealing with projects on repositories.
 Presenting syntax that does not include your sensitive information is common practice and online platforms like GitHub have 
 systems that can auto genetate .gitignore files for you. Manually creating your own is doable by following the next three steps:<br>
